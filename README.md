@@ -8,5 +8,5 @@ A repo in progress for workshops in NS through Diversity of Nature for inspiring
 + How you can use it as a tool to understand the world around you
 + How to install a frequently-used language (R) and IDE (interactive development environment) onto your machine 
 + Some examples of programming commands and logic
-+ "Tidy" data - how scientists collect information
++ "Tidy" data - how scientists collect and organize information
 + What’s next?
