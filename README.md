@@ -21,7 +21,7 @@ This lesson is adapted from [Data Carpentry’s Intro to R for Ecologists](https
 
 # What is Coding? Why do scientists use it?
 
-Programming provides us with a direct line of communication to our technology. Most of the time when we interact with technology, we use *interfaces* which are designed to make tasks easy to complete. For example, checking your email, posting a photo to instagram, or using the self checkout at the grocery store. All of these programns and apps rely on their underlying code, developed by programmers to tell them "what to do." Programming is everywhere and it's also an invaluable skill to have when [entering the job market](https://www.fastcompany.com/3060883/why-coding-is-the-job-skill-of-the-future-for-everyone). 
+Programming provides us with a direct line of communication to our technology. Most of the time when we interact with technology, we use *interfaces* which are designed to make tasks easy to complete. For example, checking your email, posting a photo to instagram, or using the self checkout at the grocery store. All of these programs and apps rely on their underlying code, developed by programmers to tell them "what to do." Programming is everywhere and it's also an invaluable skill to have when [entering the job market](https://www.fastcompany.com/3060883/why-coding-is-the-job-skill-of-the-future-for-everyone). 
 
 What if you want to use your computer for something that someone's never done before? You need to create the code to accomplish that goal! A scientists' main goal is to ask questions about the world and collect *observations* to provide evidence that supports their hypotheses (or don't). Programming can be a tool for collecting and understanding the observations they collect. 
 
