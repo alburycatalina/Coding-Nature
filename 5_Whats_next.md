@@ -2,9 +2,9 @@
 
 ### How do I keep learning?
 
-A good way to keep your momentum is to choose a project or goal
-	Try your hand at your next school project with coding
-	Break the problem into small pieces and start bit by bit.
+A good way to keep your momentum is to choose a project or goal.
+	* Try your hand at your next school project with coding
+	* Break the problem into small pieces and tackle them bit by bit.
 
 ### Suggestions for Projects
 
