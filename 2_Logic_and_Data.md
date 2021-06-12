@@ -13,17 +13,7 @@ This is analagous to putting an object in a box and labeling that box.
 ```
 
  
-## *
-
-
-
-
-
-
-
-
-
-Create a new object, called “students” and assign the number of students in the room. Note: case (upper or lower) matters*
+## *To do: Create a new object, called “students” and assign the number of students in the room. Note: case (upper or lower) matters*
  
 
 ```{r}
