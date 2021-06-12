@@ -63,6 +63,6 @@ Think of piping as adding "and then” statements to your code. A pipe is 2 perc
 This snippet counts up the number of species per category, making a new dataset with the number of each. 
 
 
-## *To do: find the total number of species per each nativness level. Are there more native or non-native species?*
+## *To do: find the total number of species per each nativeness level. Are there more native or non-native species?*
 
 
