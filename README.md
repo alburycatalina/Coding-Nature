@@ -12,7 +12,7 @@ This is a repository for a workshop for Black high school students in Nova Scoti
 + What’s next?
 
 
-This lesson is adapted from Data Carpentry’s Intro to R for Ecologists. 
+This lesson is adapted from [Data Carpentry’s Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) and uses data from the [US National Park Services](https://www.nps.gov/subjects/gisandmapping/tools-and-data.htm). 
 
 
 
