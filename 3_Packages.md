@@ -21,7 +21,7 @@ with ```library()```.
 
 ### The help function
 
-A pretty neat thing about R is that it comes with all its own documentation. The help function will describe any function to you. Use "?" in front of the function you're interested in to learn more. Try using it now to make sure we installed dplyr correctly. Like this:
+A pretty neat thing about R is that it comes with all its own documentation. The help function will describe any package or function to you. Use "?" in front of the function you're interested in to learn more. Try using it now to make sure we installed dplyr correctly. Like this:
 
 ```{r}
 ?dplyr
