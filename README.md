@@ -44,7 +44,7 @@ Select the latest release and follow the instructions to install.
 
 3. Make sure they work before the tutorial by opening up Rstudio. 
 
-4. Put up a pink sticky or a thumbs down if you're having trouble. 
+4. Put up a thumbs down if you're having trouble. 
 
 
 
