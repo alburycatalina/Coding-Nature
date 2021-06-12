@@ -1,7 +1,11 @@
 # Packages
 
 ### What are they?
-A packages is an add-on bundle of functions that you can add to your working environment. Many have different specialized functions: making figures, stats, working with websites, etc. Today we’ll be working with a pretty common one for R: dplyr.
+A packages is an add-on bundle of functions that you can add to your working environment. Many have different specialized functions: making figures, stats, working with websites, etc. Today we’ll be working with a pretty common one for R: ```dplyr```.
+
+```dplyr``` is a package that includes some really useful data manipulation tools. Let's install it and try it out. 
+
+
 
 ## *To do: Start with a new R file and save it in our folder.*
 
