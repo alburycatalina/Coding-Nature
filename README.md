@@ -32,15 +32,15 @@ What if you want to use your computer for something that someone's never done be
  
 1. Start downloading the latest version of R [here](https://cloud.r-project.org). Under "download and install R" select "Download R for (Mac) OS X" or "Download R for Windows".
 
-  ![alt text](https://github.com/alburycatalina/FHA_intro_to_coding/blob/master/download_r.png)
+  ![alt text](https://github.com/alburycatalina/Coding-Nature/blob/master/download_r.png)
 
 Select the latest release and follow the instructions to install.
 
-  ![alt text](https://github.com/alburycatalina/FHA_intro_to_coding/blob/master/download_r_2.png)
+  ![alt text](https://github.com/alburycatalina/Coding-Nature/blob/master/download_r2.png)
 
 2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download). Select the free version.
 
-  ![alt text](https://github.com/alburycatalina/FHA_intro_to_coding/blob/master/download_r_3.png)
+  ![alt text](https://github.com/alburycatalina/Coding-Nature/blob/master/download_r3.png)
 
 3. Make sure they work before the tutorial by opening up Rstudio. 
 
