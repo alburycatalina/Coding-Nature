@@ -1,17 +1,17 @@
-## Packages
+# Packages
 
 ### What are they?
 A packages is an add-on bundle of functions that you can add to your working environment. Many have different specialized functions: making figures, stats, working with websites, etc. Today we’ll be working with a pretty common one for R: dplyr.
 
-### *To do: Start with a new R file and save it in our folder.*
+## *To do: Start with a new R file and save it in our folder.*
 
 
-### *To do: Install dplyr! Use the install.packages() function to install “dplyr” in quotes.*
+## *To do: Install dplyr! Use the install.packages() function to install “dplyr” in quotes.*
 
 You then need to load the package into your environment in order to use it. Do this
 with ```library()```.
 
-#### *Load dplyr into your environment*
+## *To do: Load dplyr into your environment*
 
 
 
@@ -29,7 +29,7 @@ This will pull up an introduction to the package and describe some things you ca
 Use dply’s select() command to pick and choose columns to show in a  new data frame. Example:
 
 ```{r}
-> new_data1 <- select(shark_data, depth, id)
+> species_data_selected <- select(species_data, depth, id)
 ```
 
 Will show only depth and id from the shark_data table. 
