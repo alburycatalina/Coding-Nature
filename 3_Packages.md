@@ -60,7 +60,7 @@ Think of piping as adding "and then” statements to your code. A pipe is 2 perc
 > species_categories <- species_data %>% group_by(Category) %>% summarise(category_count = n())
 ```
 
-Counts up the number of species per category, making a new dataset with the number of each. 
+This snippet counts up the number of species per category, making a new dataset with the number of each. 
 
 
 ## *To do: find the total number of species per each nativness level. Are there more native or non-native species?*
