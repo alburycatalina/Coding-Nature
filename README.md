@@ -24,7 +24,7 @@ We have the spectacular team at [O.N.E](https://www.onenorthend.ca/), particular
 
 Programming provides us with a direct line of communication to our technology. Most of the time when we interact with technology, we use *interfaces* which are designed to make tasks easy to complete. You utilize these interfaces when you check your email, post a photo to instagram, or use the self-checkout at the grocery store. All of these programs and apps rely on their underlying code, developed by programmers like you, to tell them "what to do." Clearly, programming is everywhere. It's also an invaluable skill to have when [entering the job market](https://www.fastcompany.com/3060883/why-coding-is-the-job-skill-of-the-future-for-everyone). 
 
-What if you want to use your computer for something that someone's never done before? You need to create the code to accomplish that goal! A scientists' main goal is to ask questions about the world and collect *observations* to provide evidence that supports their hypotheses (or don't). Programming can be a tool for collecting and understanding the observations they collect. 
+What if you want to use your computer for something that someone's never done before? In these cases, we need to *create* code that can accomplish that goal! A scientists' main goal is to ask questions about the world and collect *observations* to provide evidence that supports their hypotheses (or don't). Programming can be a tool for collecting and understanding the observations they collect. 
 
 
 
