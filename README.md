@@ -25,7 +25,7 @@ What if you want to use your computer for something that someone's never done be
 
 # Getting started
 
- Use this page to follow along as you set up your machine for the workshop. We’ll be using the “sticky method” to make sure you and I are on the same page. We’ll work through the lesson in chunks. Put a blue sticky note on your computer if you’re finished the current task. Put a pink sticky note up if you need help. If we're virtually meeting, you can put a thumbs up in the chat when you've completed the task or a thumbs down if you're stuck. 
+ Use this page to follow along as you set up your machine for the workshop. We’ll be using the “sticky method” to make sure you and I are on the same page. We’ll work through the lesson in chunks. Once you’re finished the current task, you can put a thumbs up in the chat. You can send a thumbs down if you're stuck and need help.
  
  
  ## Setting Up
