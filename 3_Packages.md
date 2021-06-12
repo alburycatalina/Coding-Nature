@@ -57,18 +57,12 @@ Filter lets you select rows by certain factors.
 Think of piping as adding "and then” statements to your code. A pipe is 2 percentage signs around a greater than sign (```%>%```). Use it with the summarise function, which allows you to group data in your table and reduce multiple values down to a single value, based on a summary function like maximum value or average. For example:
 
 ```{r}
-> new_data3 <- species_data %>% group_by(site_name) %>% summarise(avg = mean(visibility))
+> species_categories <- species_data %>% group_by(Category) %>% summarise(category_count = n())
 ```
 
-Finds the mean visibility by site, making a new column “avg”.
-
-### *To do: find the total count per site. (Hint: find the command for adding and use it in place of mean) in the code above.*
+Counts up the number of species per category, making a new dataset with the number of each. 
 
 
-You can also use the dollar sign to achieve a similar resulrts in data tables. The dollar sign works with column names in a table. Like this:
+## *To do: find the total number of species per each nativness level. Are there more native or non-native species?*
 
- ```{r}
-> shark_data$site_name
- ```
- 
-Which returns all site names in the site_name column.
+
