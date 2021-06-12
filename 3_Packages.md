@@ -44,7 +44,7 @@ Will show only the species' common name, occurance, and abundance from the speci
 
 Filter lets you select rows by certain factors. 
 
-### *To do: Talk to each other, use google and the help function to figure out how to use filter() to display all observations in Haleakala National Park of native species.*
+### *To do: Talk to each other, use google and the help function to figure out how to use filter() to display all observations of native species in Haleakala National Park .*
 
 
 (30 min break)
