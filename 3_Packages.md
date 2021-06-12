@@ -10,7 +10,7 @@ A packages is an add-on bundle of functions that you can add to your working env
 ## *To do: Start with a new R file and save it in our folder.*
 
 
-## *To do: Install dplyr! Use the install.packages() function to install “dplyr” in quotes.*
+## *To do: Install dplyr! Use the install.packages() function to install ```“dplyr”``` in quotes.*
 
 You then need to load the package into your environment in order to use it. Do this
 with ```library()```.
