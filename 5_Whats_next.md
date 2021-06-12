@@ -24,5 +24,7 @@ Even if you don't have a specific project in mind, use these free resources to g
 ### Ask Questions
 
 Forums like [Stack overflow](https://stackoverflow.com) and [Github](https://github.com) are a great place for beginners. As you learned today, answers to all the hardest problems are just a small bit of creativity and few google searches away.
+
 [Contact me anytime if you want someone to bounce some ideas off of.](https://alburycatalina.github.io/me/)
+
 As you learn, you might find yourself with answers to share for yourself!
