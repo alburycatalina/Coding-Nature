@@ -72,6 +72,6 @@ Example:
 > # The output is four
 ```
 
-## *To do: Make a new R-script using the button in the top right corner. Write a few comments for yourself explaining what you've just learned.*
+## *To do: Make a new R-script using the button in the top right corner. Write a few comments for yourself explaining what you've just learned. Don't forget to save!*
 
 (10 minute break)
