@@ -10,6 +10,8 @@
 + How to install a frequently-used language (R) and IDE (interactive development environment) onto your machine 
 + Some examples of programming commands and logic
 + "Tidy" data - how scientists collect and organize information
++ Working with packages
++ Data visualization
 + What’s next?
 
 
