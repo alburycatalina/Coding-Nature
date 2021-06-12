@@ -124,9 +124,7 @@ Here’s where your “how to google lesson” comes in.
  
 ## Starting with Data
  
-The database you're about to download was collected by students such as yourselves! 3 ```Groups``` surveyed the number of terrestrial species (```Number_species``` in two different ```landscapes``` - the school's football field and a wooded area nearby. They laid down a 1x1m survey area randomly in these environments and counted the number of plant and animal species inside the perimeter. 
-
-Let's see what we can learn about the differences between the two environments using our coding skills! 
+The database you're about to download is maintained by the US National Parks services. They publish a list of species confrimed to be present in national parks. We'll use this data to learn how a scientist would use promgramming make sense of this large amount of information and turn it into knowledge we can use. 
 
 
  
@@ -135,21 +133,18 @@ You might be used to using excel to create tables that are easy to look at, but 
 
 We also use .csv (also called *comma delimited*) files for R. You can open .csv files with excel, they’re pretty much the same as a regular spreadsheet but don’t save formatting. You can convert excel files to csv with the “save as” option in excel.
 
-#### *Download the CSV survey_data from this repository into the folder you made earlier.*
+## *To do: Download the file ```species.csv``` from this repository into the folder you made earlier.*
 
 Open it up and note the long-form data structure (each observation is a row)! Pretty cool, huh?
 
 
-### Databasin’
-
- 
 ### Importing Data
 
-### *To do: Open Rstudio and set your working directory to the folder you made. Use the read.csv command to import the data. Save it as the object of your choice*
+### *To do: Open Rstudio and set your working directory to the folder you made. Use the read.csv command to import the data like below. Save it as the object of your choice.*
 
   ```{r}
 > setwd(‘folder_name’)
-> survey_data <- read.csv(‘Species_survey.csv')
+> species_data <- read.csv(‘species.csv')
  ```
 
 Sometimes databases are massive. Use head() to view the first few lines of data and get an idea of what it looks like.
@@ -162,20 +157,20 @@ Sometimes databases are massive. Use head() to view the first few lines of data 
 You can use indexing to select out values from your vector, just like in the last section. Indexing a dataframe uses the [row, column] notation.  For example:
 
   ```{r}
-> survey_data[1,1] 
+> species_data[1,1] 
  ```
 
 Will display the data in the first row and first column of the data frame. 
 
 
-### *To do: Use indexing to figure out how many species were present in 2nd observation made by the students
+## *To do: Use indexing to figure out what the 3rd species in the databse is*
 
 You can also use commas to indicate selecting the whole row or column.  For example:
  
  ```{r}
-> survey_data[,1]
+> species_data[,1]
  ```
 Will display all of the observations in the first column! 
 
 
-#### *Try it out! Use indexing to display only the information gathered by the student's 4th observation (a row)*
+### *To do: Try it out! Use indexing to display only the information gathered by the student's 4th observation (a row)*
