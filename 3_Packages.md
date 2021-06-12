@@ -29,36 +29,36 @@ This will pull up an introduction to the package and describe some things you ca
 Use dply’s select() command to pick and choose columns to show in a  new data frame. Example:
 
 ```{r}
-> species_data_selected <- select(species_data, depth, id)
+> species_data_selected <- select(Common_name, Occurance, Abundance)
 ```
 
-Will show only depth and id from the shark_data table. 
+Will show only the species' common name, occurance, and abundance from the species_data table. 
 
-### *To do: Make a new data frame (name of your choice) with only site names, year, and visibility.*
+## *To do: Make a new data frame (name of your choice) with only scientific names, occurrences, and species nativeness.*
 
 ### Dplyr: Filter
 
 Filter lets you select rows by certain factors. 
 
-#### *Talk to each other, use google and the help function to figure out how to use filter() to display all observations in Andros where the visibility was 4.*
+### *To do: Talk to each other, use google and the help function to figure out how to use filter() to display all observations in Haleakala National Park of native species.*
 
 
 (30 min break)
 
 
-## Packages Cont. 
+## Packages Continued
 
 ### Dplyr: Piping 
 
-Think of piping as “and then” statements. A pipe is 2 percentage signs around a greater than sign (%>%). Use it with the summarise function, which allows you to group data in your table and reduce multiple values down to a single value, based on a summary function like maximum value or average. For example:
+Think of piping as adding "and then” statements to your code. A pipe is 2 percentage signs around a greater than sign (```%>%```). Use it with the summarise function, which allows you to group data in your table and reduce multiple values down to a single value, based on a summary function like maximum value or average. For example:
 
 ```{r}
-> new_data3 <- shark_data %>% group_by(site_name) %>% summarise(avg = mean(visibility))
+> new_data3 <- species_data %>% group_by(site_name) %>% summarise(avg = mean(visibility))
 ```
 
 Finds the mean visibility by site, making a new column “avg”.
 
-#### *Find the total count per site. (Hint: find the command for adding and use it in place of mean) in the code above.*
+### *To do: find the total count per site. (Hint: find the command for adding and use it in place of mean) in the code above.*
 
 
 You can also use the dollar sign to achieve a similar resulrts in data tables. The dollar sign works with column names in a table. Like this:
