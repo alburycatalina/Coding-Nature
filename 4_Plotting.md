@@ -19,7 +19,13 @@ Example:
     names.arg = dataframe$more_data)
 ```
 
-#### *Use the help function to find out how to add some axis labels that make sense to the plot.*
+Hmmm... we see something strange when we plot this data. What is it? Can we fix it?
+
+## *To do: Find out how to remove the additional row with missing values using dplyr or indexing.*
+
+Well done! Plot it again and take a look at what you get now!
+
+## *To do: Use the help function to find out how to add some axis labels that make sense to the plot.*
 
 Let’s save your plot as a pdf for later. Use the save button above the plot to do so. 
 
