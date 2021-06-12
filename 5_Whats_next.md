@@ -6,7 +6,7 @@ A good way to keep your momentum is to choose a project or goal.
 * Try your hand at your next school project with coding
 * Break the problem into small pieces and tackle them bit by bit
 
-### Suggestions for Projects
+## Suggestions for Projects
 
 1. Make a website with [Github and Hugo](https://gohugo.io). [Check out the page I made!](https://alburycatalina.github.io/me/)
 2. Collect some data from around you (make a survey or download some from the internet) and [plot it in an interesting way](https://www.r-graph-gallery.com). 
