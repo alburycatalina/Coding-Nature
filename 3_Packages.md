@@ -1,36 +1,29 @@
 ## Packages
 
 ### What are they?
-A packages is an add on list of functions that you can add to your working environment. Many have different specialized functions: making figures, stats, working with websites, etc. Today we’ll be working with a pretty common one: dplyr.
+A packages is an add-on bundle of functions that you can add to your working environment. Many have different specialized functions: making figures, stats, working with websites, etc. Today we’ll be working with a pretty common one for R: dplyr.
 
-#### *Start with a new R file and save it in our folder.*
+### *To do: Start with a new R file and save it in our folder.*
 
 
 ### *To do: Install dplyr! Use the install.packages() function to install “dplyr” in quotes.*
 
 You then need to load the package into your environment in order to use it. Do this
-with library().
+with ```library()```.
 
 #### *Load dplyr into your environment*
 
-This will pull up an introduction to the package and describe some things you can do with it. Do this with any function you know the name of and get a help page. 
+
 
 ### The help function
+
 A pretty neat thing about R is that it comes with all its own documentation. The help function will describe any function to you. Use "?" in front of the function you're interested in to learn more. Try using it now to make sure we installed dplyr correctly. Like this:
 
 ```{r}
 ?dplyr
 ```
+This will pull up an introduction to the package and describe some things you can do with it. Do this with any function you know the name of and get a help page. 
 
-
-
-Dplyr lets you use the dollar sign to achieve a similar results in data tables as we saw in the previous section. The dollar sign works with column names in a table. Like this:
-
- ```{r}
-> survey_data$Group
- ```
- 
-Which returns all group numbers in the ```Group``` column.
 
 ### Dplyr: Select
 Use dply’s select() command to pick and choose columns to show in a  new data frame. Example:
