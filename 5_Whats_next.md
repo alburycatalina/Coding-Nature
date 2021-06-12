@@ -1,6 +1,6 @@
-# What’s Next?
+# What’s Next? How do I keep learning?
 
-## How do I keep learning?
+## Come Up With a Project to Call Your Own
 
 A good way to keep your momentum is to choose a project or goal.
 * Try your hand at your next school project with coding
