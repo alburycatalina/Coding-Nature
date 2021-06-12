@@ -15,7 +15,7 @@
 + What’s next?
 
 ## Acknowledgements:
-This lesson is adapted from [Data Carpentry’s Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) and uses data from the [US National Park Services](https://www.nps.gov/subjects/gisandmapping/tools-and-data.htm). 
+This lesson is adapted from [Data Carpentry’s Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) and uses publicly available data from the [US National Park Services](https://www.nps.gov/subjects/gisandmapping/tools-and-data.htm). 
 
 WE have the spectacular team at [O.N.E](https://www.onenorthend.ca/), particularly Rodney Small and LaMeia Reddick, to thank for making this workshop possible. 
 
