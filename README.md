@@ -1,7 +1,7 @@
 # Coding Nature
 This is a repository for a workshop for Black high school students in Nova Scotia, grades 11 and 12. This workshop aims to inspire passion for nature and science, while giving an introduction to coding logic and data management. This workshop will demonstrate how we can use programming as a tool to help us better understand the world around us.
 
-[Coding Nature Poster](https://github.com/alburycatalina/Coding-Nature/blob/main/codingnature.pdf)
+[Coding Nature Poster](https://github.com/alburycatalina/Coding-Nature/blob/main/images/codingnature.png)
 
 
 ## We will cover:
@@ -34,15 +34,15 @@ What if you want to use your computer for something that someone's never done be
  
 1. Start downloading the latest version of R [here](https://cloud.r-project.org). Under "download and install R" select "Download R for (Mac) OS X" or "Download R for Windows".
 
-  ![Download R](https://github.com/alburycatalina/Coding-Nature/blob/main/download_r.png)
+  ![Download R](https://github.com/alburycatalina/Coding-Nature/blob/main/images/download_r.png)
 
 Select the latest release and follow the instructions to install.
 
-  ![Install R](https://github.com/alburycatalina/Coding-Nature/blob/main/download_r2.png)
+  ![Install R](https://github.com/alburycatalina/Coding-Nature/blob/main/images/download_r2.png)
 
 2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download). Select the free version.
 
-  ![Install Rstudio](https://github.com/alburycatalina/Coding-Nature/blob/main/download_r3.png)
+  ![Install Rstudio](https://github.com/alburycatalina/Coding-Nature/blob/main/images/download_r3.png)
 
 3. Make sure they work before the tutorial by opening up Rstudio. 
 
