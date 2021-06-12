@@ -52,7 +52,7 @@ Filter lets you select rows by certain factors.
 
 ## Packages Continued
 
-### Dplyr: Piping 
+### dplyr: Piping 
 
 Think of piping as adding "and then” statements to your code. A pipe is 2 percentage signs around a greater than sign (```%>%```). Use it with the summarise function, which allows you to group data in your table and reduce multiple values down to a single value, based on a summary function like maximum value or average. For example:
 
