@@ -18,7 +18,7 @@ For example:
 
 
  
-Note the ```{r}[1]``` before our answer. This tells you that the output is a single value.
+Note the ```[1]``` before our answer. This tells you that the output is a single value.
  
  ```{r}
  > 2 +
