@@ -29,7 +29,7 @@ Use the print() command to see what’s stored in an object (or just type it’s
 For example, you can print text. Try ```print('Hello World!")```.
 
 
-### *To do: Print the object 'students' to see what's stored inside.*
+## *To do: Print the object 'students' to see what's stored inside.*
 
 ```{r}
 >  print(students)
@@ -114,7 +114,7 @@ You can also do this outside of lists. For example:
 
 Here’s where your “how to google lesson” comes in.
  
-#### *Use your knowledge of conditional subsetting to figure out if our list of prime numbers is longer than 6. Hint: figure out what the command for how long a vector is! Talk to each other to figure it out.*
+### *To do: Use your knowledge of conditional subsetting to figure out if our list of prime numbers is longer than 6. Hint: figure out what the command for how long a vector is! Talk to each other to figure it out.*
 
 
 (5 minute break)
@@ -165,6 +165,16 @@ Will display the data in the first row and first column of the data frame.
 
 ## *To do: Use indexing to figure out what the 3rd species in the databse is*
 
+
+
+You can also use the dollar sign to achieve a similar results in data tables. The dollar sign works with column names in a table. Like this:
+
+ ```{r}
+> species_data$Scientific_name
+ ```
+ 
+Which returns all of the species' scientific names in the Scientific_name column.
+
 You can also use commas to indicate selecting the whole row or column.  For example:
  
  ```{r}
@@ -173,4 +183,4 @@ You can also use commas to indicate selecting the whole row or column.  For exam
 Will display all of the observations in the first column! 
 
 
-### *To do: Try it out! Use indexing to display only the information gathered by the student's 4th observation (a row)*
+## *To do: Try it out! Use indexing to display only the information gathered by the student's 4th observation (a row)*
