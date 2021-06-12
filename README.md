@@ -10,3 +10,6 @@ A repo in progress for workshops in NS for inspiring passion for nature and scie
 + Some examples of programming commands and logic
 + "Tidy" data - how scientists collect and organize information
 + What’s next?
+
+
+This lesson is adapted from Data Carpentry’s Intro to R for Ecologists. 
