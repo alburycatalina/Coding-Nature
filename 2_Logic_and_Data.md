@@ -92,7 +92,7 @@ You can “ask” your computer what value is in certain positions in the list u
 ```	
 
  
-### *To do: Index the vector we just made using square brackets. Who is the second student in the list?*
+## *To do: Index the vector we just made using square brackets. Who is the second student in the list?*
 
  
 ### Conditional Subsetting
