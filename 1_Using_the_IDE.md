@@ -1,4 +1,4 @@
-# A bit of background
+# Using the IDE
 
 Open up Rstudio and we'll show you around the various aspects of the IDE. 
 
@@ -71,4 +71,7 @@ Example:
 > [1] 4
 > # The output is four
 ```
+
+## *To do: Make a new R-script using the button in the top right corner. Write a few comments for yourself explaining what you've just learned.*
+
 (10 minute break)
