@@ -2,7 +2,7 @@
 
 Open up Rstudio and we'll show you around the various aspects of the IDE. 
 
-**Running/ executing a command**: Tells the computer to follow the instructions
+**Running/ executing a command**: This tells the computer to go ahead and follow the instructions you've given (a code snippet)
 
 ### The Console
 **Console**: Where commands are automatically executed by the computer. In the console, you'll notice the "more than" sign or "carat". This means R is good to go and can accept a command. A plus sign means that the command is incomplete and you need to say more. Press esc if you want to cancel what you typed to get back to the >. When running a longer piece of code, you maybe be required to stop the code currently running before the IDE will let you edit your current input. This can be done by clicking the STOP symbol.
@@ -18,7 +18,7 @@ For example:
 
 
  
-Note the 1 in brackets. That means that the output is a single value
+Note the ```{r}[1]``` before our answer. This tells you that the output is a single value.
  
  ```{r}
  > 2 +
