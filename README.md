@@ -1,5 +1,5 @@
 # Coding Nature
-This is a repository for a workshop for Black high school students in Nova Scotia, grades 11 and 12. This workshop aims to inspire passion for nature and science, while giving an introduction to coding logic and data management. This workshop will demonstrate how we can use programming as a tool to help us better understand our environment.
+This is a repository for a workshop for Black high school students in Nova Scotia, grades 11 and 12. This workshop aims to inspire passion for nature and science, while giving an introduction to coding logic and data management. This workshop will demonstrate how we can use programming as a tool to help us better understand the world around us.
 
 
 ## We will cover:
