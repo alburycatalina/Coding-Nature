@@ -4,7 +4,7 @@
  
 R is an object-oriented programming language. That means that it allows you to store single values (think a number or text) as a “variable.” 
 
-This is analagous to putting an object in a box and labeling that box. 
+This is analogous to putting an object in a box and labeling that box. 
 
  You can use a caret and dash to assign an object a value. Like this:
  
@@ -76,7 +76,7 @@ The c stands for "concatenate".
  
 You can put any kind of data into a vector.
  
-## *To do: Overwrite students to make it a list of all our names. note: text goes in quotation marks)*
+## *To do: Overwrite students to make it a list of all our names. Note: text goes in quotation marks)*
  
   ```{r}
 > students <- c("name1", "name2", "name3")
@@ -114,7 +114,7 @@ You can also do this outside of lists. For example:
 
 Here’s where your “how to google lesson” comes in.
  
-### *To do: Use your knowledge of conditional subsetting to figure out if our list of prime numbers is longer than 6. Hint: figure out what the command for how long a vector is! Talk to each other to figure it out.*
+### *To do: Use your knowledge of conditional subsetting to figure out if our list of prime numbers is longer than 6. Hint: figure out what the command for how long a vector is! Talk to each other and use the internet to figure it out.*
 
 
 (5 minute break)
