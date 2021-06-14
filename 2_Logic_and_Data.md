@@ -20,7 +20,7 @@ This is analogous to putting an object in a box and labeling that box.
 > students <- 11
 ```
  
-The object ‘students’ has now been stored. Notice that there was no output.
+The object ```students``` has now been stored. Notice that there was no output.
 
 ### Print
  
@@ -29,7 +29,7 @@ Use the print() command to see what’s stored in an object (or just type it’s
 For example, you can print text. Try ```print('Hello World!")```.
 
 
-## *To do: Print the object 'students' to see what's stored inside.*
+## *To do: Print the object ```students``` to see what's stored inside.*
 
 ```{r}
 >  print(students)
@@ -52,7 +52,7 @@ There are different data types in programming languages. In R, the simplest are:
 > class(students)
 ```
  
-The class should be numeric because we assigned a number to the object students
+The class should be numeric because we assigned a number to the object ```students```
  
  
 ### Vectors
