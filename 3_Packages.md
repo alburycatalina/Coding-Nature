@@ -29,7 +29,7 @@ A pretty neat thing about R is that it comes with all its own documentation. The
 This will pull up an introduction to the package and describe some things you can do with it. Do this with any function you know the name of and get a help page. 
 
 
-### Dplyr: Select
+### dplyr: Select
 Use dply’s select() command to pick and choose columns to show in a  new data frame. Example:
 
 ```{r}
@@ -40,7 +40,7 @@ Will show only the species' common name, occurance, and abundance from the speci
 
 ## *To do: Make a new data frame (name of your choice) with only scientific names, occurrences, and species nativeness.*
 
-### Dplyr: Filter
+### dplyr: Filter
 
 Filter lets you select rows by certain factors. 
 
