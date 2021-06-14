@@ -76,7 +76,7 @@ The c stands for "concatenate".
  
 You can put any kind of data into a vector.
  
-## *To do: Overwrite students to make it a list of all our names. Note: text goes in quotation marks)*
+## *To do: Overwrite students to make it a list of all our names. Note: text goes in quotation marks.*
  
   ```{r}
 > students <- c("name1", "name2", "name3")
