@@ -133,7 +133,7 @@ You might be used to using excel to create tables that are easy to look at, but 
 
 We also use .csv (also called *comma delimited*) files for R. You can open .csv files with excel, they’re pretty much the same as a regular spreadsheet but don’t save formatting. You can convert excel files to csv with the “save as” option in excel.
 
-## *To do: Download the file ```species.csv``` from this repository into the folder you made earlier.*
+## *To do: Download the file ```species_data.csv``` from this repository into the folder you made earlier.*
 
 Open it up and note the long-form data structure (each observation is a row)! Pretty cool, huh?
 
@@ -144,7 +144,7 @@ Open it up and note the long-form data structure (each observation is a row)! Pr
 
   ```{r}
 > setwd(‘folder_name’)
-> species_data <- read.csv(‘species.csv')
+> species_data <- read.csv(‘species_data.csv')
  ```
 
 Sometimes databases are massive. Use head() to view the first few lines of data and get an idea of what it looks like.
