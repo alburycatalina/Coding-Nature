@@ -30,7 +30,7 @@ What if you want to use your computer for something that someone's never done be
 
 # Getting started
 
- Use this page to follow along as you set up your machine for the workshop. We’ll be using a version of the “sticky method” to make sure you and I are on the same page. We’ll work through the lesson in chunks. Once you’re finished the current task, you can put our agreed "done" emoji in the chat. You can send our "help" emoji you're stuck and need help.
+ Use this page to follow along as you set up your machine for the workshop. We’ll be using a version of the “sticky method” to make sure you and I are on the same page. We’ll work through the lesson in chunks. Once you’re finished the current task, you can put up a blue sticky on the back of your laptop. You can put up a pink sticky you're stuck and need help.
  
  
  ## Setting Up
