@@ -1,6 +1,6 @@
 # Coding Nature
 
-![Coding Nature Poster](https://github.com/alburycatalina/Coding-Nature/blob/main/images/codingnature.png)
+![Coding Nature Poster](https://github.com/alburycatalina/Coding-Nature/blob/main/images/codingnature_1.png)
 
 
 ## We will cover:
