@@ -74,6 +74,6 @@ Example:
 
 ## *To do: Make a new R-script using the button in the top right corner. Write a few comments for yourself explaining what you've just learned. Don't forget to save your file!*
 
-Check out [this cheatsheet](http://rstudio.com/resources/cheatsheets/) for more information about the RStudio IDE
+You can also check out [this cheatsheet](http://rstudio.com/resources/cheatsheets/) for more information on how to use the RStudio IDE!
 
 (10 minute break)
