@@ -21,9 +21,9 @@
 | Introductions/Setup | 10:00 AM       | [README](https://github.com/alburycatalina/Coding-Nature/blob/main/README.md)        |
 | 10 Minute Break           | 11:30 AM     | NA        |
 | Logic and Data         | 11:40 AM       | [Logic and Data](https://github.com/alburycatalina/Coding-Nature/blob/main/2_Logic_and_Data.md)        |
-| Lunch & Library Tour       | 12:30 AM       |    NA     |
-| Packages & Plotting        | 1:30 AM       |  [Packages](https://github.com/alburycatalina/Coding-Nature/blob/main/3_Packages.md) & [Plotting](https://github.com/alburycatalina/Coding-Nature/blob/main/4_Plotting.md)      |
-| What's Next?       | 2:30 AM       |  [What's Next](https://github.com/alburycatalina/Coding-Nature/blob/main/5_Whats_next.md)      |
+| Lunch & Library Tour       | 12:30 PM       |    NA     |
+| Packages & Plotting        | 1:30 PM       |  [Packages](https://github.com/alburycatalina/Coding-Nature/blob/main/3_Packages.md) & [Plotting](https://github.com/alburycatalina/Coding-Nature/blob/main/4_Plotting.md)      |
+| What's Next?       | 2:30 PM       |  [What's Next](https://github.com/alburycatalina/Coding-Nature/blob/main/5_Whats_next.md)      |
 
 
 ## Acknowledgements:
