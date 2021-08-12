@@ -14,7 +14,7 @@
 + Data visualization
 + What’s next?
 
-## Schedule 
+## Schedule: 
 
 |   Activity    | Time | Link  | 
 | ------------------- | ----------- |  ----------- | 
