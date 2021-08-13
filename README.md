@@ -32,7 +32,7 @@ This lesson is adapted from [Data Carpentry’s Intro to R for Ecologists](https
 We have the spectacular team at [O.N.E](https://www.onenorthend.ca/), particularly Rodney Small and LaMeia Reddick, to thank for making this workshop possible. 
 
 
-## UN SDG
+## UN SDG's
 
 Discussion  - what is an SDG? Have you heard of them before?
 
