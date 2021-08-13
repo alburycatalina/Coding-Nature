@@ -18,7 +18,7 @@
 
 |   Activity    | Time | Link  | 
 | ------------------- | ----------- |  ----------- | 
-| Introductions/Setup | 10:00 AM       | [README](https://github.com/alburycatalina/Coding-Nature/blob/main/README.md)        |
+| Introductions/Setup | 10:00 AM       | [README](https://github.com/alburycatalina/Coding-Nature/blob/main/README.md)   & [Using the IDE](https://github.com/alburycatalina/Coding-Nature/blob/main/1_Using_the_IDE.md)     |
 | 10 Minute Break           | 11:30 AM     | NA        |
 | Logic and Data         | 11:40 AM       | [Logic and Data](https://github.com/alburycatalina/Coding-Nature/blob/main/2_Logic_and_Data.md)        |
 | Lunch & Library Tour       | 12:30 PM       |    NA     |
