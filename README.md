@@ -32,6 +32,13 @@ This lesson is adapted from [Data Carpentry’s Intro to R for Ecologists](https
 We have the spectacular team at [O.N.E](https://www.onenorthend.ca/), particularly Rodney Small and LaMeia Reddick, to thank for making this workshop possible. 
 
 
+## UN SDG
+
+Discussion  - what is an SDG? Have you heard of them before?
+
+https://sdgs.un.org/goals
+
+
 # What is Coding? Why do scientists use it?
 
 Programming provides us with a direct line of communication to our technology. Most of the time when we interact with technology, we use *interfaces* which are designed to make tasks easy to complete. You utilize these interfaces when you check your email, post a photo to Instagram, or use the self-checkout at the grocery store. All of these programs and apps rely on their underlying code, developed by programmers like you, to tell them "what to do." Clearly, programming is everywhere. This is one of the reasons it's an invaluable skill to have when [entering the job market](https://www.fastcompany.com/3060883/why-coding-is-the-job-skill-of-the-future-for-everyone). 
